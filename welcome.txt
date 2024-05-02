@@ -1,2 +1,7 @@
 hi hello welcome to my git repository
+<<<<<<< HEAD
 this is my first tag
+=======
+
+first tag
+>>>>>>> 0d0fa44700a1f99ffcce2e74171b8ad22f813a99
