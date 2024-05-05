@@ -1,5 +1,9 @@
 hellllo
 this is me
+<<<<<<< HEAD
 this is the new feature that ive added
 
 hiii
+=======
+this is the new feature that ive added
+>>>>>>> e746bd97828ca1b2a5cbed5b28514f31157aa362
